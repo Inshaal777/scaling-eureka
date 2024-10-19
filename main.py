@@ -16,3 +16,7 @@ Mood_Off = "JUICE PEELA DO MAUSAMI KA"
 Reaction = "MERA MOOD OFF HA"
 Daily_Glasses = 1, 2, 3, 4
 Energy_Level = 99.999999
+Description = "Pretty, Gorgeous, Beauty, Lovely, Jaana"
+Duration = "5 Years"
+Location = 777
+Speed = 965.252
